@@ -1,0 +1,6 @@
+
+# SUGESTOES:
+
+1. Usar '-' (traços) para fazer LISTAS
+2. Usar ':' (dois pontos) para fazer par chave-valor
+

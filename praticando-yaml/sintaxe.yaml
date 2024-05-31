@@ -1,0 +1,7 @@
+host: bazar
+port: 8080
+users:
+  - name: Tauan
+    role: admin
+  - name: Vinicius
+    role: user
